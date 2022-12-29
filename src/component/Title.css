@@ -1,0 +1,11 @@
+.StyledTitle{
+    background-color: aliceblue;
+    text-align: center;
+    color: blue;
+    padding: 10px;
+    font-size: 30;
+    border: 2px solid green;
+    border-width: 2px;
+    margin: 10px;
+ 
+}
